@@ -25,7 +25,7 @@ You can try the App here: https://ping.calvin.al
 - Change charts timeframe (5 and 10 minutes or possibly longer)
 
 ## Why this was made?
-Since the Covid-19 outbreak, I have found my internet connection very unstable, therefore this led me to open Command Prompt all the time doing something like `ping -t google.com` to see its currently doing.
+Since the Covid-19 outbreak, I have found my internet connection very unstable, therefore this led me to open Command Prompt all the time doing something like `ping -t google.com` to see how its currently doing.
 And I tried finding some ping test site but none of them had a real-time graph or something like that, so I made this 😁
 
 ## Support

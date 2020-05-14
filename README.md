@@ -29,4 +29,4 @@ Since the Covid-19 outbreak, I have found my internet connection very unstable, 
 And I tried finding some ping test site but none of them had a real-time graph or something like that, so I made this 😁
 
 ## Support
-- [Support at Patreon](https://patreon.com/calvinalx)
+- [Donate](https://bit.ly/ZDonate)

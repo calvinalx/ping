@@ -8,7 +8,8 @@ You can try the App here: https://ping.calvin.al
 - [Installing the WebSocket Ping Server](https://github.com/calvinalx/ping/wiki/Installing-the-WebSocket-Ping-Server)
 
 ## Source Code
-Source code for the React client app will be available soon, It's currently a mess, making it unsuitable for public viewing.
+- Source code for the React client app will be available soon, It's currently a mess, making it unsuitable for public viewing.
+- [Geodata Lookup API](https://github.com/calvinalx/geoloc)
 
 ## Features
 - Measure latency with HTTP/WebSocket

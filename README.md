@@ -18,9 +18,12 @@ You can try the App here: https://ping.calvin.al
 - Geolocation Data
 - Change server modals
 - Share button
+- Dark Mode 🆕
 
 ## Planned Features
-- Dark Mode
+- Code Refactoring (Yes, the code is a mess right now)
+- Show/hide chart toggle
+- Better Geolocation data, ability to switch between Origin and Destination
 - Global Latency page / Server browser (Will need servers from all around the world 😮)
 - Change charts timeframe (5 and 10 minutes or possibly longer)
 

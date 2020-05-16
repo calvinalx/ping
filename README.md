@@ -6,6 +6,7 @@ You can try the App here: https://ping.calvin.al
 
 ## Getting Started
 - [Installing the WebSocket Ping Server](https://github.com/calvinalx/ping/wiki/Installing-the-WebSocket-Ping-Server)
+- If you want to host it yourself, grab the [latest release](https://github.com/calvinalx/ping/releases) and then [follow this guide](https://create-react-app.dev/docs/deployment/) for deployment
 
 ## Source Code
 - Source code for the React client app will be available soon, It's currently a mess, making it unsuitable for public viewing.

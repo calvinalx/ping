@@ -24,7 +24,9 @@ You can try the App here: https://ping.calvin.al
 - Code Refactoring (Yes, the code is a mess right now)
 - Show/hide chart toggle
 - Better Geolocation data, ability to switch between Origin and Destination
+- Ping Multiple servers at once
 - Global Latency page / Server browser (Will need servers from all around the world 😮)
+- Electron App (ICMP support with Node.js)
 - Change charts timeframe (5 and 10 minutes or possibly longer)
 
 ## Why this was made?
